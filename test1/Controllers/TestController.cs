@@ -18,5 +18,10 @@ namespace test1.Controllers
         {
             return View();
         }
+
+        public ActionResult HW3()
+        {
+            return View();
+        }
     }
 }
